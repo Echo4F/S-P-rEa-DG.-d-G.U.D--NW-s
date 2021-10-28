@@ -1,3 +1,3 @@
 # Spreading-the-good-news
 spreading the good news all over the world
-add token
+ GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
